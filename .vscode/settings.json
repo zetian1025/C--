@@ -17,6 +17,7 @@
         "streambuf": "c",
         "tuple": "c",
         "type_traits": "c",
-        "stack": "cpp"
+        "stack": "cpp",
+        "iosfwd": "cpp"
     }
 }
