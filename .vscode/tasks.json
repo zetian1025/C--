@@ -15,7 +15,7 @@
                 "-std=c++17"
             ],
             "options": {
-                "cwd": "D:\\WorkRelated\\mingw64\\bin"
+                "cwd": "D:\\Tools\\Environment\\C++\\mingw64\\bin"
             },
             "problemMatcher": [
                 "$gcc"
