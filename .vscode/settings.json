@@ -19,6 +19,7 @@
         "type_traits": "c",
         "stack": "cpp",
         "iosfwd": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "cmath": "cpp"
     }
 }
