@@ -20,6 +20,27 @@
         "stack": "cpp",
         "iosfwd": "cpp",
         "utility": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "atomic": "cpp",
+        "cctype": "cpp",
+        "clocale": "cpp",
+        "cstdarg": "cpp",
+        "cstddef": "cpp",
+        "cstdint": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "exception": "cpp",
+        "algorithm": "cpp",
+        "memory_resource": "cpp",
+        "system_error": "cpp",
+        "initializer_list": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "typeinfo": "cpp"
     }
 }
